@@ -37,7 +37,7 @@ class FastlaneEducationsWorkflow extends StatelessWidget {
                         height: size.width * .015,
                       ),
                       const WorkflowPhoneDisplay(phoneDisplays: [
-                        "assets/joruney view.png",
+                        "assets/fe_journey.png",
                         "assets/fe_profile.png",
                         "assets/fe_qcm.png",
                         "assets/fe_results.png",
