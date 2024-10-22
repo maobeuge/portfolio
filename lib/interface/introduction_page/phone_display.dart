@@ -40,7 +40,7 @@ class PhoneDisplay extends StatelessWidget {
                     fit: BoxFit.cover,
                   ),
                   Image.asset(
-                    "assets/jobmatchr.PNG",
+                    "assets/jobmatchr.png",
                     fit: BoxFit.cover,
                   ),
                 ],

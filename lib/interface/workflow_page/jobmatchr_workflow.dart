@@ -37,7 +37,7 @@ class JobmatchrWorkflow extends StatelessWidget {
                         height: size.width * .015,
                       ),
                       const WorkflowPhoneDisplay(
-                          phoneDisplays: ["assets/jobmatchr.PNG"]),
+                          phoneDisplays: ["assets/jobmatchr.png"]),
                     ],
                   ),
                   if (!isMobile) SizedBox(width: size.width * .04),
